@@ -38,4 +38,15 @@ public class Pc {
     public void setNameOtd(String nameOtd) {
         this.nameOtd = nameOtd;
     }
+
+    public void on() {
+
+    }
+
+    public void off() {
+
+    }
+    public void loadOs() {
+
+    }
 }

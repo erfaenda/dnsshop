@@ -39,6 +39,9 @@ public class Bankir {
         this.sberBank = sberBank;
     }
 
-    public void Sendzapros();
+    public void Sendzapros() {
+
+
+    }
 
 }
