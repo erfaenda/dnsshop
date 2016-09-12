@@ -7,4 +7,6 @@ public class Dns {
 
     private String name;
     private int consultCount;
+
+
 }

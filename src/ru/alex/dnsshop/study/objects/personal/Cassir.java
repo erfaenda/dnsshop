@@ -8,4 +8,8 @@ public class Cassir {
     private String name;
     private int jobStage;
 
+    public void getMoney() {
+
+    }
+
 }

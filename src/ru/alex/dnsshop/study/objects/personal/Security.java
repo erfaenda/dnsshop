@@ -7,4 +7,16 @@ public class Security {
 
     private String name;
 
+    public void openDoor() {
+
+    }
+
+    public void closeDoor() {
+
+    }
+
+    public void checkClient() {
+
+    }
+
 }

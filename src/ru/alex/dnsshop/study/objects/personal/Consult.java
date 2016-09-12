@@ -7,4 +7,12 @@ public class Consult {
 
     private String name;
     private String otd;
+
+    public void helpClient() {
+
+    }
+
+    public void sendClient() {
+
+    }
 }
